@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674768656 source:b:\datastructure c++\linked list\singly linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1674768939 b:\datastructure c++\linked list\singly linkedlist\include\linkedlist.h
+	<iostream>
+	<string>
+	<stdlib.h>
+

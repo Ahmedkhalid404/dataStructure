@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1675002523 source:b:\datastructure c++\linked list\doublelinkedlist v-1.4\main.cpp
+	<iostream>
+	"DoubleLinkedList.h"
+
+1675002536 b:\datastructure c++\linked list\doublelinkedlist v-1.4\include\doublelinkedlist.h
+	<bits/stdc++.h>
+

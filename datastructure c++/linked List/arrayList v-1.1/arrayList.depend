@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674319985 source:b:\datastructure c++\linked list\arraylist\main.cpp
+	<iostream>
+	"arrayList.h"
+
+1674320015 b:\datastructure c++\linked list\arraylist\include\arraylist.h
+	<bits/stdc++.h>
+	<stdlib.h>
+	<malloc.h>
+

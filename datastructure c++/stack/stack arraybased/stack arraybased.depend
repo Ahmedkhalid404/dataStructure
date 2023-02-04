@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1673981387 source:b:\datastructure c++\stack\array based\stack arraybased\main.cpp
+	<iostream>
+	"stack_Array.h"
+
+1673981399 b:\datastructure c++\stack\array based\stack arraybased\include\stack_array.h
+	<iostream>
+
+1673978112 source:b:\datastructure c++\stack\array based\stack arraybased\src\stack_array.cpp
+	<iostream>
+	"stack_Array.h"
+

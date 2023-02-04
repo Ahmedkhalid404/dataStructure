@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1674767710 source:b:\datastructure c++\linked list\singly linkedlist+tail\main.cpp
+	<iostream>
+	"LinkedListWithTail.h"
+
+1674767736 b:\datastructure c++\linked list\singly linkedlist+tail\include\linkedlistwithtail.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1674941104 source:b:\datastructure c++\linked list\singly linkedlist+tail v-1.3\main.cpp
+	<iostream>
+	"LinkedListWithTail.h"
+
+1674772151 b:\datastructure c++\linked list\singly linkedlist+tail v-1.3\include\linkedlistwithtail.h
+	<iostream>
+	<string>
+	<stdlib.h>
+

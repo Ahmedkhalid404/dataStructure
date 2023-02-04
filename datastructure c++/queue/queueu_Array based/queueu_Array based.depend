@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674139960 source:b:\datastructure c++\queue\queueu_array based\main.cpp
+	<iostream>
+	"queueu_Array.h"
+
+1674140193 b:\datastructure c++\queue\queueu_array based\include\queueu_array.h
+	<iostream>
+	<cassert>
+

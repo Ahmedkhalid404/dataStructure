@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674146464 source:b:\datastructure c++\queue\queue_linked list\main.cpp
+	<bits/stdc++.h>
+	"queue.h"
+
+1674146480 b:\datastructure c++\queue\queue_linked list\include\queue.h
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+

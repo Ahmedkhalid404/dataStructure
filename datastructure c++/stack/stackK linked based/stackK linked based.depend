@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673991573 source:b:\datastructure c++\stack\stackk linked based\main.cpp
+	<iostream>
+	"stack.h"
+
+1673991517 b:\datastructure c++\stack\stackk linked based\include\stack.h
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+
